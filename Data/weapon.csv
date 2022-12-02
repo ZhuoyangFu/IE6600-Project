@@ -1,0 +1,15 @@
+,threat_level,weapon_level,Count
+0,attack,dangerous long-range weapon,10
+1,attack,gun,1549
+2,attack,melee weapon,442
+3,attack,toy or unarmed,162
+4,attack,undetermined,18
+5,other,dangerous long-range weapon,6
+6,other,gun,474
+7,other,melee weapon,430
+8,other,toy or unarmed,142
+9,other,undetermined,57
+10,undetermined,gun,16
+11,undetermined,melee weapon,3
+12,undetermined,toy or unarmed,26
+13,undetermined,undetermined,21

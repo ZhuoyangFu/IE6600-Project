@@ -1,0 +1,7 @@
+,threat_level,signs_of_mental_illness,Count
+0,attack,False,1718
+1,attack,True,463
+2,other,False,831
+3,other,True,278
+4,undetermined,False,54
+5,undetermined,True,12
