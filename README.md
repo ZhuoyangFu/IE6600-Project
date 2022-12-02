@@ -15,4 +15,3 @@ This project will contain the following sections:
 
 Police shooting from 2015 – 2022. Retrieved from 
 https://www.kaggle.com/datasets/ramjasmaurya/us-police-shootings-from-20152022.
-![image](https://user-images.githubusercontent.com/74521048/205397941-7dc1f807-9e08-44a7-bfd8-e8320ae600cb.png)
