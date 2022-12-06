@@ -1,0 +1,11 @@
+,weapon_level,signs_of_mental_illness,Count
+0,dangerous long-range weapon,False,10
+1,dangerous long-range weapon,True,6
+2,gun,False,1659
+3,gun,True,380
+4,melee weapon,False,606
+5,melee weapon,True,269
+6,toy or unarmed,False,244
+7,toy or unarmed,True,86
+8,undetermined,False,84
+9,undetermined,True,12
